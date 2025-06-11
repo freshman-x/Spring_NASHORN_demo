@@ -26,31 +26,8 @@ src/main/java/org/example/super_demo/
 ## 功能特性
 
 - 支持执行 JavaScript 脚本
-- 提供 RESTful API 接口
 - 支持脚本的动态加载和执行
-
-## 快速开始
-
-1. 克隆项目
-```bash
-git clone git@github.com:freshman-x/Spring_NASHORN_demo.git
-```
-
-2. 编译项目
-```bash
-mvn clean package
-```
-
-3. 运行项目
-```bash
-mvn spring-boot:run
-```
 
 ## 注意事项
 
 - 本项目使用 Java 8，确保您的开发环境已安装 JDK 8
-- Nashorn 引擎在 Java 11 中已被移除，请使用 Java 8 运行此项目
-
-## 许可证
-
-MIT License 
